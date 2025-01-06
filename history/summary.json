@@ -1,20 +1,20 @@
 [
   {
-    "name": "Feeby - Public Web",
+    "name": "Public Web",
     "url": "https://www.feeby.app",
     "icon": "https://icons.duckduckgo.com/ip3/www.feeby.app.ico",
-    "slug": "feeby-public-web",
+    "slug": "public-web",
     "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1242,
-    "timeDay": 1242,
-    "timeWeek": 1242,
-    "timeMonth": 1242,
-    "timeYear": 1242,
+    "time": 1067,
+    "timeDay": 1067,
+    "timeWeek": 1067,
+    "timeMonth": 1067,
+    "timeYear": 1067,
     "dailyMinutesDown": {}
   }
 ]
