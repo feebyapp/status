@@ -2,7 +2,7 @@ owner: feebyapp
 repo: status
 
 sites:
-  - name: Feeby - Public Web
+  - name: Public Web
     url: https://www.feeby.app
 
 status-website:
