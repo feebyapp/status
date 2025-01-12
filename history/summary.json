@@ -77,18 +77,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "island-cdn",
     "status": "up",
-    "uptime": "0.78%",
-    "uptimeDay": "0.78%",
-    "uptimeWeek": "0.78%",
-    "uptimeMonth": "0.78%",
-    "uptimeYear": "0.78%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 645,
     "timeDay": 645,
     "timeWeek": 645,
     "timeMonth": 645,
     "timeYear": 645,
-    "dailyMinutesDown": {
-      "2025-01-12": 8
-    }
+    "dailyMinutesDown": {}
   }
 ]
