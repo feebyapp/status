@@ -1,7 +1,7 @@
 url: $URL_DASHBOARD
-status: down
-code: 500
-responseTime: 113
-lastUpdated: 2025-11-18T13:29:49.610Z
+status: up
+code: 200
+responseTime: 1183
+lastUpdated: 2025-11-18T14:47:28.787Z
 startTime: 2025-01-12T04:18:22.259Z
 generator: Upptime <https://github.com/upptime/upptime>
