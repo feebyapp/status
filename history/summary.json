@@ -82,7 +82,7 @@
     "url": "$URL_IDENTICON_SERVICE",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "identicon-service",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
     "uptimeDay": "96.16%",
     "uptimeWeek": "99.45%",
