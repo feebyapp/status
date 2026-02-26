@@ -52,10 +52,10 @@
     "url": "$URL_EMAIL_SERVICE",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "email-service",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 564,
@@ -64,6 +64,7 @@
     "timeMonth": 1036,
     "timeYear": 559,
     "dailyMinutesDown": {
+      "2026-02-26": 2,
       "2025-09-04": 10,
       "2025-04-25": 18
     }
@@ -73,9 +74,9 @@
     "url": "$URL_IDENTICON_SERVICE",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "identicon-service",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -85,6 +86,7 @@
     "timeMonth": 145,
     "timeYear": 151,
     "dailyMinutesDown": {
+      "2026-02-26": 0,
       "2025-10-03": 11
     }
   },
