@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 289,
-    "timeDay": 209,
-    "timeWeek": 263,
+    "timeDay": 148,
+    "timeWeek": 259,
     "timeMonth": 297,
     "timeYear": 305,
     "dailyMinutesDown": {}
@@ -28,14 +28,12 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1209,
-    "timeDay": 1426,
-    "timeWeek": 1503,
-    "timeMonth": 1317,
+    "time": 1208,
+    "timeDay": 1240,
+    "timeWeek": 1496,
+    "timeMonth": 1323,
     "timeYear": 1231,
-    "dailyMinutesDown": {
-      "2025-10-02": 13
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Email Service",
@@ -48,10 +46,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 496,
-    "timeDay": 379,
-    "timeWeek": 326,
-    "timeMonth": 364,
+    "time": 495,
+    "timeDay": 148,
+    "timeWeek": 315,
+    "timeMonth": 359,
     "timeYear": 466,
     "dailyMinutesDown": {
       "2026-04-10": 102
@@ -69,9 +67,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 151,
-    "timeDay": 178,
-    "timeWeek": 241,
-    "timeMonth": 177,
+    "timeDay": 196,
+    "timeWeek": 239,
+    "timeMonth": 179,
     "timeYear": 147,
     "dailyMinutesDown": {
       "2025-10-03": 11
@@ -89,10 +87,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 286,
-    "timeDay": 719,
-    "timeWeek": 547,
-    "timeMonth": 420,
-    "timeYear": 271,
+    "timeDay": 348,
+    "timeWeek": 553,
+    "timeMonth": 427,
+    "timeYear": 272,
     "dailyMinutesDown": {}
   }
 ]
